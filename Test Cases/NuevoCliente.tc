@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NuevoCliente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a783b3b-c5b9-4b0a-8909-3186a0e278a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61202416-face-4fa7-9147-b97149a67574</id>
+      <masked>false</masked>
+      <name>Nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77c0c51c-5f17-48b1-a8e8-f8e06b45e9aa</id>
+      <masked>false</masked>
+      <name>Apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4312e82c-4a39-4158-8152-0e7dc556dfbb</id>
+      <masked>false</masked>
+      <name>Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab5b9395-2756-4373-8912-7960c001e17e</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23fea349-26a8-48c8-9c67-05d203263c1f</id>
+      <masked>false</masked>
+      <name>Telefono</name>
+   </variable>
+</TestCaseEntity>

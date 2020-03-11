@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/NuevoCliente - Iteration 1","testCaseId":"Test Cases/NuevoCliente","bindedValues":{"Nombre":"\u0027Nicolás\u0027","Email":"\u0027nrizzo@baufest.com\u0027","Telefono":"\u002712123434\u0027","Apellido":"\u0027Rizzo\u0027","Direccion":"\u0027Mis cojones 33\u0027"}}
+{"testCaseName":"Test Cases/NuevoCliente - Iteration 2","testCaseId":"Test Cases/NuevoCliente","bindedValues":{"Nombre":"\u0027Martín\u0027","Email":"\u0027mdabat@baufest.com\u0027","Telefono":"\u002756567878\u0027","Apellido":"\u0027Dabat\u0027","Direccion":"\u0027Calle falsa 123\u0027"}}
+{"testCaseName":"Test Cases/NuevoCliente - Iteration 3","testCaseId":"Test Cases/NuevoCliente","bindedValues":{"Nombre":"\u0027Mauricio\u0027","Email":"\u0027mcaruncion@baufest.com\u0027","Telefono":"\u002791091112\u0027","Apellido":"\u0027Carunchio\u0027","Direccion":"\u0027Fake street 1233\u0027"}}
+{"testCaseName":"Test Cases/Data_Base","testCaseId":"Test Cases/Data_Base"}
+{"testCaseName":"Test Cases/Deletes_NuevoCliente","testCaseId":"Test Cases/Deletes_NuevoCliente"}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>NuevoCliente</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>d11ee982-4538-4432-97f1-afd028953569</testSuiteGuid>
+   <testCaseLink>
+      <guid>35182724-665c-45b2-b6bc-dcbb878bf9cd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NuevoCliente</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fd7555bd-7551-46bd-bcaa-82611cd46c55</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/NuevoCliente</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fd7555bd-7551-46bd-bcaa-82611cd46c55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nombre</value>
+         <variableId>61202416-face-4fa7-9147-b97149a67574</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd7555bd-7551-46bd-bcaa-82611cd46c55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Apellido</value>
+         <variableId>77c0c51c-5f17-48b1-a8e8-f8e06b45e9aa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd7555bd-7551-46bd-bcaa-82611cd46c55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Direccion</value>
+         <variableId>4312e82c-4a39-4158-8152-0e7dc556dfbb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd7555bd-7551-46bd-bcaa-82611cd46c55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>ab5b9395-2756-4373-8912-7960c001e17e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fd7555bd-7551-46bd-bcaa-82611cd46c55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Telefono</value>
+         <variableId>23fea349-26a8-48c8-9c67-05d203263c1f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa386461-08c1-4093-a7e8-348bb7c0ab3e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_Base</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3a8470c2-11a4-4622-a835-b0610654b8a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deletes_NuevoCliente</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

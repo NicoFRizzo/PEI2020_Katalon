@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Contrasena</name>
+   <tag></tag>
+   <elementGuidId>989e4a44-9b8b-4c49-bbbf-93a994a9496a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;page-wrapper&quot;]/div/div/div/div[2]/form/fieldset/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;page-wrapper&quot;]/div/div/div/div[2]/form/fieldset/div[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>

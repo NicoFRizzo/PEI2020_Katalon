@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuBar_Clientes</name>
+   <tag></tag>
+   <elementGuidId>e3895cd1-7ec9-4b96-bf07-fbbb78fb0d4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;wrapper&quot;]/nav/div[2]/ul[2]/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;wrapper&quot;]/nav/div[2]/ul[2]/li[5]/a</value>
+   </webElementProperties>
+</WebElementEntity>
